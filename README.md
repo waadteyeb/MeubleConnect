@@ -4,7 +4,7 @@
 
 ## 🔗 Demo
 
-🎥 [Watch Demo Video](#) _([ watch ](https://youtu.be/0fr0HCvMUtw))_
+🎥 [Watch Demo Video]([#](https://youtu.be/0fr0HCvMUtw)) 
 
 ## 🚀 Features
 
