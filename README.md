@@ -4,7 +4,7 @@
 
 ## 🔗 Demo
 
-🎥 [Watch Demo Video](#) _( see RESORWARE_meuble.mp4)_
+🎥 [Watch Demo Video](#) _([ watch ](https://youtu.be/0fr0HCvMUtw))_
 
 ## 🚀 Features
 
